@@ -1,2 +1,0 @@
-# avokatfinder-iceland
-AvokatFinder Iceland

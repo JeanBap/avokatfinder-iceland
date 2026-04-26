@@ -1,26 +1,5 @@
-# iceland.avokatfinder.com — llms.txt
-# Lawyers and notaries in Iceland
+# AvökatFinder Iceland
+> English-speaking law firm directory for Iceland
 
-## Pages
-url: https://iceland.avokatfinder.com/
-url: https://iceland.avokatfinder.com/blog/employment-law-guide-expats-iceland/
-url: https://iceland.avokatfinder.com/blog/guide-to-lawyers-in-iceland/
-url: https://iceland.avokatfinder.com/blog/immigration-law-guide-expats-iceland/
-url: https://iceland.avokatfinder.com/blog/real-estate-law-guide-expats-iceland/
-url: https://iceland.avokatfinder.com/blog/lawyers-notaries-guide/
-url: https://iceland.avokatfinder.com/practice-areas/banking-finance/
-url: https://iceland.avokatfinder.com/practice-areas/corporate-ma/
-url: https://iceland.avokatfinder.com/practice-areas/criminal-law/
-url: https://iceland.avokatfinder.com/practice-areas/data-protection/
-url: https://iceland.avokatfinder.com/practice-areas/dispute-resolution/
-url: https://iceland.avokatfinder.com/practice-areas/employment/
-url: https://iceland.avokatfinder.com/practice-areas/family-law/
-url: https://iceland.avokatfinder.com/practice-areas/golden-visa/
-url: https://iceland.avokatfinder.com/practice-areas/immigration/
-url: https://iceland.avokatfinder.com/practice-areas/intellectual-property/
-url: https://iceland.avokatfinder.com/practice-areas/real-estate/
-url: https://iceland.avokatfinder.com/practice-areas/tax/
-url: https://iceland.avokatfinder.com/cities/reykjavik/
-url: https://iceland.avokatfinder.com/cities/kopavogur/
-url: https://iceland.avokatfinder.com/cities/hafnarfjor-ur/
-url: https://iceland.avokatfinder.com/cities/akureyri/
+Directory: https://iceland.avokatfinder.com
+Email: info@avokatfinder.com
