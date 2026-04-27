@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iceland.avokatfinder.com/sitemap.xml
