@@ -10,15 +10,15 @@
 - https://iceland.avokatfinder.com/contact/: Contact us
 
 ## Legal Glossary Terms
-- https://iceland.avokatfinder.com/glossary/arfur-is/
 - https://iceland.avokatfinder.com/glossary/fasteignamat/
-- https://iceland.avokatfinder.com/glossary/felagsskraning/
-- https://iceland.avokatfinder.com/glossary/hjuskapareignir/
 - https://iceland.avokatfinder.com/glossary/kaupsamningur/
 - https://iceland.avokatfinder.com/glossary/kennitala/
+- https://iceland.avokatfinder.com/glossary/thinglystar/
+- https://iceland.avokatfinder.com/glossary/arfur-is/
+- https://iceland.avokatfinder.com/glossary/felagsskraning/
+- https://iceland.avokatfinder.com/glossary/hjuskapareignir/
 - https://iceland.avokatfinder.com/glossary/leigusamningur-is/
 - https://iceland.avokatfinder.com/glossary/radstefnuskyrsla/
-- https://iceland.avokatfinder.com/glossary/thinglystar/
 
 ## Site Info
 - Language: English
