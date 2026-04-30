@@ -1,5 +1,32 @@
 # AvökatFinder Iceland
-> English-speaking law firm directory for Iceland
+> The English-language directory of lawyers and law firms in Iceland for expats, foreign nationals and international businesses.
 
-Directory: https://iceland.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://iceland.avokatfinder.com/: Home — find an English-speaking lawyer in Iceland
+- https://iceland.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Iceland
+- https://iceland.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Iceland legal terms
+- https://iceland.avokatfinder.com/blog/: Expat legal guides and property law articles for Iceland
+- https://iceland.avokatfinder.com/about/: About AvökatFinder Iceland
+- https://iceland.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://iceland.avokatfinder.com/glossary/arfur-is/
+- https://iceland.avokatfinder.com/glossary/fasteignamat/
+- https://iceland.avokatfinder.com/glossary/felagsskraning/
+- https://iceland.avokatfinder.com/glossary/hjuskapareignir/
+- https://iceland.avokatfinder.com/glossary/kaupsamningur/
+- https://iceland.avokatfinder.com/glossary/kennitala/
+- https://iceland.avokatfinder.com/glossary/leigusamningur-is/
+- https://iceland.avokatfinder.com/glossary/radstefnuskyrsla/
+- https://iceland.avokatfinder.com/glossary/thinglystar/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Iceland
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://iceland.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
